@@ -8,3 +8,7 @@ Methodology: Developed and trained a Q-Learning Model in TensorFlow which contro
 2. A LIDAR image classification model that used snapshots taken of the given environment (snapshots from pre-installed LIDAR sensors on the car), so that the car emits pulsed laser light waves to be able to learn and classify nodes within its surroundings.
 
 Accuracy: Achieved an accuracy of 87% based on the car's actions in the simulated scenarios.
+
+
+# Next Steps
+Working on implementing the Model Predictive Control technique in order to increase accuracy of the model. 
